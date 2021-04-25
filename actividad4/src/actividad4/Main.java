@@ -8,6 +8,7 @@ public class Main {
 		System.out.println("commit 2");
 		System.out.println("otro commit");
 		System.out.println("nuevo cambio");
+		System.out.println("cambio2");
 
 	}
 
